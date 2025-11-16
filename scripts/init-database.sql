@@ -1,3 +1,18 @@
+/*
+
+Script Purpose :
+
+	This script creates a new db called 'DataWareHouse' after checking if it already exists.
+	If it does, it will drop it and create a new one.
+	There are also 3 schemas created 'bronze','silver','gold'.
+
+
+
+*/
+
+
+
+
 USE master;
 GO;
 
